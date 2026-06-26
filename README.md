@@ -3,8 +3,8 @@
 A high-performance, real-time messaging web application inspired by Signal. This project demonstrates full-stack engineering capabilities, featuring a Next.js frontend, a Python/FastAPI backend, and bi-directional WebSocket communication with SQLite persistence.
 
 ## 🚀 Live Demos
-* **Frontend (Vercel):** [YOUR_VERCEL_LINK_HERE]
-* **Backend API (Render):** [YOUR_RENDER_LINK_HERE]
+* **Frontend (Vercel):** [signal-elite.vercel.app]
+
 
 ## ✨ Key Features
 
